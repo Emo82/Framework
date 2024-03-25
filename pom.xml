@@ -65,7 +65,7 @@
                             <version>3.2.5</version>
                             <configuration>
                                 <suiteXmlFiles>
-                                    <suiteXmlFile>testSuites/ErrorValidation.xml</suiteXmlFile>
+                                    <suiteXmlFile>testSuites/ErrorValidationTest.xml</suiteXmlFile>
                                 </suiteXmlFiles>
                             </configuration>
                         </plugin>
